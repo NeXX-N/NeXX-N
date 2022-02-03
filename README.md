@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ywwuni0694
-- 🌱 I’m currently learning DS(major) and CS(as hobby).
+- 🌱 
 
 
 <!---
